@@ -1,0 +1,34 @@
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.IOC\bin\Debug\netcoreapp3.1\NetECommerce.IOC.deps.json
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.IOC\bin\Debug\netcoreapp3.1\NetECommerce.IOC.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.IOC\bin\Debug\netcoreapp3.1\NetECommerce.IOC.pdb
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.IOC\bin\Debug\netcoreapp3.1\NetECommerce.BLL.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.IOC\bin\Debug\netcoreapp3.1\NetEcommerce.DAL.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.IOC\bin\Debug\netcoreapp3.1\NetECommerce.Entity.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.IOC\bin\Debug\netcoreapp3.1\NetECommerce.BLL.pdb
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.IOC\bin\Debug\netcoreapp3.1\NetEcommerce.DAL.pdb
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.IOC\bin\Debug\netcoreapp3.1\NetECommerce.Entity.pdb
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.IOC\obj\Debug\netcoreapp3.1\NetECommerce.IOC.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.IOC\obj\Debug\netcoreapp3.1\NetECommerce.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.IOC\obj\Debug\netcoreapp3.1\NetECommerce.IOC.AssemblyInfoInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.IOC\obj\Debug\netcoreapp3.1\NetECommerce.IOC.AssemblyInfo.cs
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.IOC\obj\Debug\netcoreapp3.1\NetECommerce.IOC.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.IOC\obj\Debug\netcoreapp3.1\NetECommerce.IOC.csproj.CopyComplete
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.IOC\obj\Debug\netcoreapp3.1\NetECommerce.IOC.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.IOC\obj\Debug\netcoreapp3.1\NetECommerce.IOC.pdb
+C:\Users\abdullah.arslan\Downloads\Project-main\30.01\NetECommerce\NetECommerce.IOC\bin\Debug\netcoreapp3.1\NetECommerce.IOC.deps.json
+C:\Users\abdullah.arslan\Downloads\Project-main\30.01\NetECommerce\NetECommerce.IOC\bin\Debug\netcoreapp3.1\NetECommerce.IOC.dll
+C:\Users\abdullah.arslan\Downloads\Project-main\30.01\NetECommerce\NetECommerce.IOC\bin\Debug\netcoreapp3.1\NetECommerce.IOC.pdb
+C:\Users\abdullah.arslan\Downloads\Project-main\30.01\NetECommerce\NetECommerce.IOC\bin\Debug\netcoreapp3.1\NetECommerce.BLL.dll
+C:\Users\abdullah.arslan\Downloads\Project-main\30.01\NetECommerce\NetECommerce.IOC\bin\Debug\netcoreapp3.1\NetEcommerce.DAL.dll
+C:\Users\abdullah.arslan\Downloads\Project-main\30.01\NetECommerce\NetECommerce.IOC\bin\Debug\netcoreapp3.1\NetECommerce.Entity.dll
+C:\Users\abdullah.arslan\Downloads\Project-main\30.01\NetECommerce\NetECommerce.IOC\bin\Debug\netcoreapp3.1\NetECommerce.BLL.pdb
+C:\Users\abdullah.arslan\Downloads\Project-main\30.01\NetECommerce\NetECommerce.IOC\bin\Debug\netcoreapp3.1\NetEcommerce.DAL.pdb
+C:\Users\abdullah.arslan\Downloads\Project-main\30.01\NetECommerce\NetECommerce.IOC\bin\Debug\netcoreapp3.1\NetECommerce.Entity.pdb
+C:\Users\abdullah.arslan\Downloads\Project-main\30.01\NetECommerce\NetECommerce.IOC\obj\Debug\netcoreapp3.1\NetECommerce.IOC.csproj.AssemblyReference.cache
+C:\Users\abdullah.arslan\Downloads\Project-main\30.01\NetECommerce\NetECommerce.IOC\obj\Debug\netcoreapp3.1\NetECommerce.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdullah.arslan\Downloads\Project-main\30.01\NetECommerce\NetECommerce.IOC\obj\Debug\netcoreapp3.1\NetECommerce.IOC.AssemblyInfoInputs.cache
+C:\Users\abdullah.arslan\Downloads\Project-main\30.01\NetECommerce\NetECommerce.IOC\obj\Debug\netcoreapp3.1\NetECommerce.IOC.AssemblyInfo.cs
+C:\Users\abdullah.arslan\Downloads\Project-main\30.01\NetECommerce\NetECommerce.IOC\obj\Debug\netcoreapp3.1\NetECommerce.IOC.csproj.CoreCompileInputs.cache
+C:\Users\abdullah.arslan\Downloads\Project-main\30.01\NetECommerce\NetECommerce.IOC\obj\Debug\netcoreapp3.1\NetECommerce.IOC.csproj.CopyComplete
+C:\Users\abdullah.arslan\Downloads\Project-main\30.01\NetECommerce\NetECommerce.IOC\obj\Debug\netcoreapp3.1\NetECommerce.IOC.dll
+C:\Users\abdullah.arslan\Downloads\Project-main\30.01\NetECommerce\NetECommerce.IOC\obj\Debug\netcoreapp3.1\NetECommerce.IOC.pdb
